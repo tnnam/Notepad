@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resouce">
+        <file>rec/1600.png</file>
+        <file>rec/cut.png</file>
+        <file>rec/mayin.png</file>
+        <file>rec/new.png</file>
+        <file>rec/open.ioc</file>
+        <file>rec/save.png</file>
+        <file>rec/copy.png</file>
+        <file>rec/paste.png</file>
+        <file>rec/Redo.png</file>
+        <file>rec/undo.ico</file>
+        <file>rec/notepad.jpg</file>
+        <file>rec/copy-512.jpg</file>
+        <file>rec/Hopstarter-Sleek-Xp-Basic-Close.ico</file>
+    </qresource>
+    <qresource prefix="/sad"/>
+    <qresource prefix="/df"/>
+</RCC>
